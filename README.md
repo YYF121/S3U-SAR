@@ -37,3 +37,13 @@ The dataset provides:
 - Physics-constrained topology definitions
 - Aircraft category labels
 - Orientation annotations
+
+## Contact
+
+For questions regarding the paper, code, dataset, or benchmark, please contact:
+
+**Yifei Yin**  
+Beijing Institute of Technology  
+Email: 513843129@qq.com
+
+You are also welcome to open an issue in this repository.
