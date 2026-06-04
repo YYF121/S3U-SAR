@@ -37,5 +37,3 @@ The dataset provides:
 - Physics-constrained topology definitions
 - Aircraft category labels
 - Orientation annotations
-
-The dataset will be available sooner.
