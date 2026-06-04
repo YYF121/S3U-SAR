@@ -6,7 +6,7 @@ This repository is the official implementation of:
 
 S³U-SAR establishes a physical-semantic representation paradigm for SAR aircraft interpretation. Instead of representing aircraft targets as unordered local scattering responses, the proposed framework parses a SAR aircraft image into semantic scattering keypoints, visibility-aware attributes, and a physics-constrained structural topology.
 
-> Code, dataset, and pretrained models will be released upon acceptance.
+Code, dataset, and pretrained models will be released upon acceptance.
 
 ## Overview
 
