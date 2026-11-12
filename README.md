@@ -8,18 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.sciencedirect.com/science/article/pii/S0924271626005009"><img src="assets/paper.svg" alt="Paper · ISPRS" height="36"></a>
-  &nbsp;
-  <a href="https://v.wjx.cn/vm/Pu93u9A.aspx#"><img src="assets/dataset.svg" alt="申请下载数据集 · Request Dataset" height="36"></a>
-</p>
-
-<p align="center">
-  English | <a href="README_zh-CN.md">简体中文</a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0924271626005009"><img src="assets/paper.svg" alt="Paper: ISPRS" height="20"></a>
+  <a href="https://v.wjx.cn/vm/Pu93u9A.aspx#"><img src="assets/dataset.svg" alt="下载: 百度云 / Download: Baidu Netdisk" height="20"></a>
 </p>
 
 This repository accompanies [our ISPRS paper](https://www.sciencedirect.com/science/article/pii/S0924271626005009) and provides the access entry for **KP-SAR-Aircraft-1.0**, a fine-grained benchmark for semantic scattering structure understanding of SAR aircraft targets.
 
-> **Dataset access is now available.** Click **Request Dataset** above and complete the questionnaire. The **Baidu Netdisk download link and extraction code** are displayed on the questionnaire completion page.
+> **Dataset access is now available.** Click the **百度云 / Baidu Netdisk** badge above and complete the questionnaire. The **Baidu Netdisk download link and extraction code** are displayed on the questionnaire completion page.
 >
 > **数据集已开放申请下载。** 点击上方按钮并填写问卷，提交后即可在问卷完成页获取**百度网盘链接和提取码**。
 
@@ -28,7 +23,6 @@ This repository accompanies [our ISPRS paper](https://www.sciencedirect.com/scie
 - [Dataset & Download](#dataset--download)
 - [Overview](#overview)
 - [Framework](#framework)
-- [Release Status](#release-status)
 - [Contact](#contact)
 - [Citations](#citations)
 
@@ -71,15 +65,6 @@ The framework combines:
 <p align="center">
   <img src="assets/framework.png" alt="Overview of the S³U-SAR framework" width="90%">
 </p>
-
-## Release Status
-
-| Resource | Status |
-| --- | --- |
-| Paper | [ISPRS / ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0924271626005009) |
-| KP-SAR-Aircraft-1.0 | [Available via questionnaire](https://v.wjx.cn/vm/Pu93u9A.aspx#) |
-| Code | Not yet released |
-| Pretrained models | Not yet released |
 
 ## Contact
 
