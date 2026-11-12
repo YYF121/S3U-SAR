@@ -9,14 +9,14 @@
 
 <p align="center">
   <a href="https://www.sciencedirect.com/science/article/pii/S0924271626005009"><img src="assets/paper.svg" alt="Paper: ISPRS" height="20"></a>
-  <a href="https://v.wjx.cn/vm/Pu93u9A.aspx#"><img src="assets/dataset.svg" alt="下载: 百度云 / Download: Baidu Netdisk" height="20"></a>
+  <a href="https://v.wjx.cn/vm/Pu93u9A.aspx#"><img src="assets/dataset.svg" alt="Download: 百度网盘" height="20"></a>
 </p>
 
 This repository accompanies [our ISPRS paper](https://www.sciencedirect.com/science/article/pii/S0924271626005009) and provides the access entry for **KP-SAR-Aircraft-1.0**, a fine-grained benchmark for semantic scattering structure understanding of SAR aircraft targets.
 
-> **Dataset access is now available.** Click the **百度云 / Baidu Netdisk** badge above and complete the questionnaire. The **Baidu Netdisk download link and extraction code** are displayed on the questionnaire completion page.
+> **Dataset download is available.** Click **Download · 百度网盘** above and complete the questionnaire. The **Baidu Netdisk download link and extraction code** are displayed on the questionnaire completion page.
 >
-> **数据集已开放申请下载。** 点击上方按钮并填写问卷，提交后即可在问卷完成页获取**百度网盘链接和提取码**。
+> **数据集已开放下载。** 点击上方按钮并填写问卷，提交后即可在问卷完成页获取**百度网盘链接和提取码**。
 
 ## Contents
 
@@ -45,7 +45,7 @@ This repository accompanies [our ISPRS paper](https://www.sciencedirect.com/scie
 2. Complete and submit the questionnaire.
 3. Copy the **Baidu Netdisk link and extraction code** shown on the completion page, then download the dataset.
 
-**[申请下载数据集 / Request Dataset →](https://v.wjx.cn/vm/Pu93u9A.aspx#)**
+**[Download Dataset →](https://v.wjx.cn/vm/Pu93u9A.aspx#)**
 
 The dataset is distributed through Baidu Netdisk. Download information is provided after questionnaire submission.
 
